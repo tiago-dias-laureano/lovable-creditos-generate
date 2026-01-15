@@ -39,7 +39,7 @@ Permissões usadas: `tabs`, `activeTab`, `scripting` (ver [manifest.json](file:/
    - Recomendação: use o Remix de um template/tema pronto para evitar falhas de segurança ao publicar.
    - Alternativamente, use um prompt simples para criar um projeto no Lovable.
 4. Com o projeto remixado aberto, abra a extensão:
-   - Campo “Número de cópias”: defina quantas vezes replicar a aba (ex.: 5–15).
+   - Campo “Número de cópias”: defina quantas vezes replicar a aba (ex.: 1–50).
    - Clique em “Replicar Aba Atual” e aguarde todas as páginas carregarem totalmente.
    - Clique em “Abrir Modal em Todas as Abas” e aguarde o status indicar que o modal foi aberto em todas.
    - Clique em “Publicar em Todas as Abas” e aguarde a confirmação de publicação em todas.
@@ -68,4 +68,3 @@ Permissões usadas: `tabs`, `activeTab`, `scripting` (ver [manifest.json](file:/
 
 - Prefira remixes de templates/temas oficiais ao publicar; evita configurações inseguras.
 - Evite executar em páginas sensíveis ou fora do Lovable.
-- Não compartilhe credenciais em prompts ou projetos públicos.

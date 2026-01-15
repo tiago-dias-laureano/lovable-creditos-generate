@@ -2,7 +2,7 @@
 // Mantém a extensão ativa e gerencia eventos em background
 
 chrome.runtime.onInstalled.addListener(() => {
-  console.log("Tab Replicator & Publisher instalada com sucesso!");
+  console.log("LOVABLE CREDITS GENERATOR instalada com sucesso!");
 });
 
 // Listener para mensagens de outras partes da extensão
